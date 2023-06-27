@@ -1,0 +1,29 @@
+{
+    "portfolio":[
+        {
+            "cover":"/portfolio/1/port.png",
+            "title":"Portfolio Website",
+            "description":"SVG Animation, Page Loading, Custom 3D CSS, EmailJS, Leaflet, ReactJS",
+            "url":"http://www.google.com"
+        },
+        {
+            "cover":"/portfolio/1/calc.png",
+            "title":"Calculator-App",
+            "description":"ReactJS, HTML, JS, CSS",
+            "url":"https://calculator-app-promitdey.vercel.app/"
+        },
+        {
+            "cover":"/portfolio/1/tic.png",
+            "title":"TIC-TAC-TOE Game",
+            "description":"ReactJS, HTML, JS, CSS",
+            "url":"https://tic-tac-toe-two-xi.vercel.app/"
+        },
+        {
+            "cover":"/portfolio/1/todo.png",
+            "title":"To Do App",
+            "description":"Context API, ReactJS, JS",
+            "url":"https://todo-app-097.vercel.app/"
+        }
+
+    ]
+}
