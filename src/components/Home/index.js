@@ -44,6 +44,7 @@ return(
                 Frontend Developer | Software Engineer
             </h2>
             <Link to="/contact" className="flat-button">CONTACT ME</Link>
+            <Link to="https://drive.google.com/file/d/12RWPv_a2UCdurOh22yVdF5XE0o4M13A_/view?usp=sharing" target="_blank" className="flat-button-cv">Download CV</Link>
         </div>
         <Logo />
     </div>
